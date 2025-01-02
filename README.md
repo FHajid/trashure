@@ -11,3 +11,18 @@ node server.js
 
 untuk aktifkan frontend ke frontend/app/pages.tsx masukan ke terminal 
 npm run dev
+
+# Masuk ke direktori repository
+cd /path/ke/repo/anda
+
+# Periksa status
+git status
+
+# Tambahkan file ke staging area
+git add contoh.txt
+
+# Commit file
+git commit -m "Menambahkan contoh.txt"
+
+# Unggah ke GitHub
+git push origin main
